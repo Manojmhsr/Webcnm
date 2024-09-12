@@ -1,0 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-image: url(backimg.jpg);
+  background-size: cover;
+  background-position: center;
+}
